@@ -1,0 +1,22 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liriBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EIA1981/Liri-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EIA1981/Liri-Bot/issues"
+  },
+  "homepage": "https://github.com/EIA1981/Liri-Bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
